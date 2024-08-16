@@ -1,0 +1,116 @@
+title: Такпрог збирка задатака из информатике за ученике средњих школа
+authors: Државна комисија за средњошколска такмичења из информатике
+date: 2024-08-15
+thumb: takprog.png
+short-description: Збирка такмичарских задатака из информатике на нивоу средњих школа.
+full-description: index.md
+languages: [cpp]
+content:
+#   - .predgovor.md
+   - 23 sezona-2023-24:
+      - 01 KV1-2023-24:
+          - tri_tajna_broja:
+              print: full
+          - moramo_da_recikliramo:
+              print: full
+          - presedanja:
+              print: full
+          - veca_trka:
+              print: full
+          - fejk_reklama:
+              print: full
+      - 02 KV2-2023-24:
+          - nadkvadrat:
+              print: full
+          - manja_je_matrica_od_matrice:
+              print: full
+          - skolice:
+              print: full
+          - obaranje_ruku:
+              print: full
+          - pecinski_zecevi:
+              print: full
+      - 03 OKR-2023-24:
+          - usamljenost:
+              print: full
+          - dejn:
+              print: full
+          - bitvajz_oranje:
+              print: full
+          - xormutacije:
+              print: full
+          - monopol:
+              print: full
+          - linijopolis:
+              print: full
+      - 04 DRZ-2023-24:
+          - nepodniz:
+              print: full
+          - domski_sletac:
+              print: full
+          - staruci_prsten:
+              print: full
+          - i_ili:
+              print: full
+          - kiki:
+              print: full
+          - palindromska_setnja:
+              print: full
+#      - 05 SIO-2023-24:
+   - 22 sezona-2022-23:
+      - 01 KV1-2022-23:
+          - sudar:
+              print: full
+          - namestanjeg:
+              print: full
+          - sante:
+              print: full
+          - vage:
+              print: full
+          - zlatnici3:
+              print: full
+      - 02 KV2-2022-23:
+          - spojler:
+              print: full
+          - finale:
+              print: full
+          - guzva:
+              print: full
+          - formacija:
+              print: full
+          - opklada:
+              print: full
+      - 03 OKR-2022-23:
+          - kuvar:
+              print: full
+          - razmena_znaka:
+              print: full
+          - pikado:
+              print: full
+          - poklon:
+              print: full
+          - krompiri:
+              print: full
+          - sdneirf:
+              print: full
+      - 04 DRZ-2022-23:
+          - bakterijada:
+              print: full
+          - xor_fabrika:
+              print: full
+          - kirbi:
+              print: full
+          - zivot_u_gradu:
+              print: full
+          - bekstvo:
+              print: full
+          - turizam:
+              print: full
+#      - 05 SIO-2022-23:
+#   - 21 sezona-2021-22:
+#      - 01 KV1-2021-22:
+#      - 02 KV2-2021-22:
+#      - 03 KV3-2021-22:
+#      - 04 OKR-2021-22:
+#      - 05 DRZ-2021-22:
+#      - 06 SIO-2021-22:

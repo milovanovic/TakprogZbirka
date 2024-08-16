@@ -1,0 +1,22 @@
+gen_sample 1 > $
+gen_sample 2 > $
+gen_main 1 1000 10 1000000000 > $
+gen_main 2 1000 10 1000000000 > $
+gen_main 3 1000 10 1000000000 > $
+gen_points 1 200000 4 > $
+gen_points 2 200000 20 > $
+gen_points 3 200000 1000 > $
+gen_disjoint 1 200000 10 > $
+gen_disjoint 2 200000 10 > $
+gen_disjoint 3 200000 100 > $
+gen_disjoint 4 200000 100 > $
+gen_main 1 200000 10 20 > $
+gen_main 2 200000 10 20 > $
+gen_main 3 200000 10 20 > $
+gen_main 4 200000 10 20 > $
+gen_main 1 200000 10 1000000000 > $
+gen_main 2 200000 10 1000000000 > $
+gen_main 3 200000 10 1000000000 > $
+gen_main 4 200000 10 1000000000 > $
+gen_main 5 200000 10 1000000000 > $
+gen_main 6 200000 10 1000000000 > $

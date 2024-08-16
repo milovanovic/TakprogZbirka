@@ -1,0 +1,8 @@
+type: testcase
+score_total: 100
+score_overrides:
+    - name: 1
+      score: 0
+    - name: 2
+      score: 0
+public: [1,2]
