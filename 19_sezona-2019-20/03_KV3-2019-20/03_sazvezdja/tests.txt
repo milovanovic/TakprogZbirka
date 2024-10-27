@@ -1,0 +1,34 @@
+28
+
+testcases/01.in 8
+testcases/02.in 2
+testcases/03.in 4
+
+testcases/04.in 1
+testcases/05.in 3
+testcases/06.in 5
+testcases/07.in 9
+testcases/08.in 10
+
+testcases/09.in 565
+testcases/10.in 2000
+testcases/11.in 1989
+testcases/12.in 1434
+testcases/13.in 1998
+
+testcases/14.in 383306
+testcases/15.in 383307
+testcases/16.in 999957
+testcases/17.in 654321
+testcases/18.in 1000000
+
+testcases/19.in 3244071
+testcases/20.in 99840195
+testcases/21.in 85012006
+testcases/22.in 85012510
+testcases/23.in 97023216
+testcases/24.in 97370816
+testcases/25.in 100000000
+testcases/26.in 99999999
+testcases/27.in 99999888
+testcases/28.in 9244071

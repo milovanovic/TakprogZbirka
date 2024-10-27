@@ -107,10 +107,186 @@ content:
           - turizam:
               print: full
 #      - 05 SIO-2022-23:
-#   - 21 sezona-2021-22:
-#      - 01 KV1-2021-22:
-#      - 02 KV2-2021-22:
-#      - 03 KV3-2021-22:
-#      - 04 OKR-2021-22:
-#      - 05 DRZ-2021-22:
+   - 21 sezona-2021-22:
+      - 01 KV1-2021-22:
+          - nesusedni:
+              print: full
+          - transfuzija:
+              print: full
+          - prepisivaci:
+              print: full
+          - cenzura:
+              print: full
+          - nocnavoznja:
+              print: full
+      - 02 KV2-2021-22:
+          - madjionicar:
+              print: full
+          - ekskurzija:
+              print: full
+          - palindrom_safl:
+              print: full
+          - guster:
+              print: full
+          - carobnjak:
+              print: full
+      - 03 KV3-2021-22:
+          - biodiverzitet:
+              print: full
+          - mladjionicar:
+              print: full
+          - psiho:
+              print: full
+          - konjugacija:
+              print: full
+          - min_max_plus:
+              print: full
+      - 04 OKR-2021-22:
+          - odbijanje:
+              print: full
+          - stale:
+              print: full
+          - okram:
+              print: full
+          - slicice:
+              print: full
+          - civas:
+              print: full
+          - adventure_communist:
+              print: full
+      - 05 DRZ-2021-22:
+          - jednacine:
+              print: full
+          - turnir:
+              print: full
+          - burad:
+              print: full
+          - koncert:
+              print: full
+          - smeker:
+              print: full
+          - konstrukta:
+              print: full
 #      - 06 SIO-2021-22:
+   - 20 sezona-2020-21:
+      - 01 KV1-2020-21:
+          - trud:
+              print: full
+          - prijatelji:
+              print: full
+          - zalbe:
+              print: full
+          - cvrsti_brojevi:
+              print: full
+          - sio_stablo:
+              print: full
+      - 02 KV2-2020-21:
+          - kvadrati:
+              print: full
+          - jabuke:
+              print: full
+          - slova:
+              print: full
+          - BUG:
+              print: full
+          - 01_niz:
+              print: full
+      - 03 KV3-2020-21:
+          - sampion:
+              print: full
+          - gejm_sou:
+              print: full
+          - karte2:
+              print: full
+          - pitanja:
+              print: full
+          - novogodisnje_stablo:
+              print: full
+      - 04 OKR-2020-21:
+          - takmicar:
+              print: full
+          - lepa_matrica:
+              print: full
+          - zlatnici_2_elektricni_bugalu:
+              print: full
+          - standardan_zadatak:
+              print: full
+          - velika_trka:
+              print: full
+          - altruizam:
+              print: full
+      - 05 DRZ-2020-21:
+          - kvadrati_uzvracaju_udarac:
+              print: full
+          - preduzece:
+              print: full
+          - proslava_rodjendana:
+              print: full
+          - zice:
+              print: full
+          - jakuze:
+              print: full
+          - nzd_permutacije:
+              print: full
+#      - 06 SIO-2020-21:
+   - 19 sezona-2019-20:
+      - 01 KV1-2019-20:
+          - isplata:
+              print: full
+          - odbojka:
+              print: full
+          - vodopad:
+              print: full
+          - sahovska_trka:
+              print: full
+          - luxor:
+              print: full
+      - 02 KV2-2019-20:
+          - pikado:
+              print: full
+          - polica:
+              print: full
+          - zlatnici:
+              print: full
+          - jag:
+              print: full
+          - gric:
+              print: full
+      - 03 KV3-2019-20:
+          - upoznavanje:
+              print: full
+          - lubenice:
+              print: full
+          - sazvezdja:
+              print: full
+          - boje:
+              print: full
+          - k-tacne_sekvence_zagrada:
+              print: full
+      - 04 OKR-2019-20:
+          - premestanja:
+              print: full
+          - zaboravljena:
+              print: full
+          - carobnjak_iz_voza:
+              print: full
+          - dobitni_listic:
+              print: full
+          - bezbedna_podmatrica:
+              print: full
+          - moj_broj:
+              print: full
+      - 05 DRZ-2019-20:
+          - lek:
+              print: full
+          - vestica:
+              print: full
+          - trookrugao:
+              print: full
+          - statistika:
+              print: full
+          - spec:
+              print: full
+          - festival:
+              print: full
+#      - 06 SIO-2019-20:

@@ -1,0 +1,9 @@
+Sample: 1,2,3
+10 bodova :  Resenje je -1 :D : {10,13,34,35,36}
+10 bodova :  H,W<=5:            [4,8]
+10 bodova :  BFS,H,W<=200:      [9,13]
+60 bodova :  H,W<=200:          [4,33]
+20 bodova :  BFS,H,W<=500:      [9,13]U[34,38]
+100 bodova : H,W<=500:          [4,53]
+
+Test 53 op btw :)
