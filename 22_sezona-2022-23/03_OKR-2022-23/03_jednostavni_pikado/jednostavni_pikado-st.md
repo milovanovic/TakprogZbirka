@@ -1,5 +1,5 @@
 ---
-title: Пикадо
+title: Једноставни пикадо
 timelimit: 1.0 # у секундама
 memlimit: 64   # y MB
 owner: takprog # власник је онај ко ради на задатку
