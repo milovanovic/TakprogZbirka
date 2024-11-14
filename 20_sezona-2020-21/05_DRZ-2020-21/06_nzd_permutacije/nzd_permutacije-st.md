@@ -28,8 +28,8 @@ solutions:
 
 ## Ограничења
 
-- $1 \leq N \leq 10^5$
-- $1 \leq A_i \leq 10^6$
+- $1 \leq N \leq 10^5$,
+- $1 \leq A_i \leq 10^6$.
 
 ## Подзадаци
 
