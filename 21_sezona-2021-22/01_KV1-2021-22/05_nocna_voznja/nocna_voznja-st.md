@@ -71,10 +71,10 @@ solutions:
 Пети догађај: најдаље насеље од насеља $5$ на датом интервалу је насеље $4$, на растојању $3$.
 
 ## Ограничења
--   $1 \leq N, Q \leq 80.000$
--   $1 \leq p_i \leq N$ и $p_i \neq p_j$ за $i \neq j$
-- $1 \leq a, b, x, u, v \leq N$ и $a \neq b$
-- $1 \leq l \leq r \leq N$
+-   $1 \leq N, Q \leq 80.000$,
+-   $1 \leq p_i \leq N$ и $p_i \neq p_j$ за $i \neq j$,
+- $1 \leq a, b, x, u, v \leq N$ и $a \neq b$,
+- $1 \leq l \leq r \leq N$.
 
 Тест примери су подељени у 5 дисјунктних група:
 
