@@ -46,9 +46,9 @@ solutions:
 
 <br>
 
--   $1 \leq N\cdot M\leq 300.000$
--   $1 \leq Q\leq 300.000$
--   $1 \leq A_{ij} \leq NM$
+-   $1 \leq N\cdot M\leq 300.000$,
+-   $1 \leq Q\leq 300.000$,
+-   $1 \leq A_{ij} \leq NM$,
 -   Свака вредност од $1$ до $NM$ се појављује тачно једном у низу $A_{ij}$.
 
 <br>
