@@ -85,7 +85,7 @@ content:
               print: full
           - razmena_znaka:
               print: full
-          - pikado:
+          - jednostavni_pikado:
               print: full
           - poklon:
               print: full
@@ -117,7 +117,7 @@ content:
               print: full
           - cenzura:
               print: full
-          - nocnavoznja:
+          - nocna_voznja:
               print: full
       - 02 KV2-2021-22:
           - madjionicar:
