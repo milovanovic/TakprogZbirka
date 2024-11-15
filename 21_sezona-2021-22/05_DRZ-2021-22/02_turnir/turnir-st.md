@@ -32,10 +32,10 @@ solutions:
 
 ## Ограничења
 
-- $1 \leq N, M \leq 200$
-- $1 \leq K \leq 10^4$
-- $0 \leq s_i \leq 10^9$, за свако $1 \leq i \leq N$
-- $0 \leq a_{i,j} \leq 10^4$, за свако $1 \leq i \leq N, 1\leq j \leq M$
+- $1 \leq N, M \leq 200$,
+- $1 \leq K \leq 10^4$,
+- $0 \leq s_i \leq 10^9$, за свако $1 \leq i \leq N$,
+- $0 \leq a_{i,j} \leq 10^4$, за свако $1 \leq i \leq N, 1\leq j \leq M$.
 
 ## Подзадаци
 
