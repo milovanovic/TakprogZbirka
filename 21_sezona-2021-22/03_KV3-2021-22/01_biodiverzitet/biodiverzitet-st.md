@@ -46,9 +46,9 @@ solutions:
 
 ## Ограничења
 
-- $1 \leq N \leq 10^4$
-- $0 \leq i_k \leq 10^9$, за $1 \leq k \leq N$
-- $1 \leq K \leq 10^9$
+- $1 \leq N \leq 10^4$,
+- $0 \leq i_k \leq 10^9$, за $1 \leq k \leq N$,
+- $1 \leq K \leq 10^9$.
 
 Тест примери су подељени у пет дисјунктних група:
 

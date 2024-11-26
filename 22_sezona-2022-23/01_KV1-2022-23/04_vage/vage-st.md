@@ -100,9 +100,9 @@ solutions:
 
 ## Ограничења
 
-- $1 \leq N, M \leq 2 \cdot 10^5$.
-- $0 \leq d_i \leq u_i \leq 10^9$, за $1 \leq i \leq N$.
-- $1 \leq l_i \leq r_i \leq N$, за $1 \leq i \leq M$.
+- $1 \leq N, M \leq 2 \cdot 10^5$,
+- $0 \leq d_i \leq u_i \leq 10^9$, за $1 \leq i \leq N$,
+- $1 \leq l_i \leq r_i \leq N$, за $1 \leq i \leq M$,
 - $0 \leq x_i \leq 10^9$, за $1 \leq i \leq M$.
 
 Тест примери су подељени у пет дисјунктних група:

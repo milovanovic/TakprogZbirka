@@ -89,11 +89,11 @@ solutions:
 
 ## Ограничења
 
-- $1 \leq N, Q \leq 2 \times 10^{5}$
-- $0 \leq |K_i| \leq 10^{9}$ за $T_i \in \{ 1, 2 \}$
-- $0 \leq |K_i| \leq 10^{6}$ за $T_i = 3$
-- $1 \leq L_i \leq R_i \leq N$
-- $0 \leq |X0_i| \leq 10^{9}$
+- $1 \leq N, Q \leq 2 \times 10^{5}$,
+- $0 \leq |K_i| \leq 10^{9}$ за $T_i \in \{ 1, 2 \}$,
+- $0 \leq |K_i| \leq 10^{6}$ за $T_i = 3$,
+- $1 \leq L_i \leq R_i \leq N$,
+- $0 \leq |X0_i| \leq 10^{9}$.
 
 Тест примери су подељени у пет дисјунктних група:
 
