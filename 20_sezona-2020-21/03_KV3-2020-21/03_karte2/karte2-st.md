@@ -7,6 +7,7 @@ origin: # опционо (ако се зна одакле је задатак п
 tags: [] # сваки задатак може бити означен према унапред договореној листи ознака
 status: KOMPLETAN # један од: "IZRADA", "PREGLED" или "KOMPLETAN".
 status-date: 2024-08-15 # датум у формату YYYY-MM-DD од када је задатак у наведеном статусу
+crafted-dir: testcases
 solutions:
   - name: ex0
     lang: [cpp]

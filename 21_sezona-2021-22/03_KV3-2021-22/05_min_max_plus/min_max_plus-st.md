@@ -7,7 +7,12 @@ origin: # опционо (ако се зна одакле је задатак п
 tags: [] # сваки задатак може бити означен према унапред договореној листи ознака
 status: KOMPLETAN # један од: "IZRADA", "PREGLED" или "KOMPLETAN".
 status-date: 2024-08-15 # датум у формату YYYY-MM-DD од када је задатак у наведеном статусу
+crafted-dir: testcases
 solutions:
+  - name: ex0
+    lang: [cpp]
+    desc: ""
+    tags: []
 ---
 
 Дат је низ од $N$ функција $F_1(x), F_2(x), \dots, F_N(x)$. Ове функције су описане помоћу два низа $T_1, T_2, \dots, T_N$ и $K_1, K_2, \dots, K_N$ од по $N$ целих бројева.
