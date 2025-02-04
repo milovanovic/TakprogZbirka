@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
             if (a != b) {
                 return -1;
             }
-   
+
             int n;
             inf >> n;
 
@@ -68,12 +68,12 @@ int main(int argc, char** argv) {
 
             if (tt.length() == 0) return -1;
             r = stoi(tt);
-   
+
             vi red(r);
 
             vi color(n+1, 0);
             vi d(n+1, INT32_MAX);
-         
+
             long long suma = 0;
             queue<int> q;
             unordered_set<int> cvor;
@@ -153,5 +153,5 @@ int main(int argc, char** argv) {
     if (ouf >> a)
         return -1;
 
-    return cout << "TOOO", 0;
+    return 0;
 }

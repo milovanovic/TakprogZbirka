@@ -10,7 +10,7 @@ status-date: 2024-08-15 # датум у формату YYYY-MM-DD од када 
 crafted-dir: testcases
 solutions:
   - name: ex0
-    lang: [cpp]
+    lang: [cpp, py]
     desc: ""
     tags: []
 ---

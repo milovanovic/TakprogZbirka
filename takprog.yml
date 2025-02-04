@@ -15,12 +15,12 @@ content:
               print: full
           - presedanja:
               print: full
-          - veca_trka:
+          - veca_trka:                      # 2x TLE (on 10th and 15th crafted testcase)
               print: full
           - fejk_reklama:
               print: full
       - 02 KV2-2023-24:
-          - nadkvadrat:
+          - nadkvadrat:                     # RTE while generating testcases
               print: full
           - manja_je_matrica_od_matrice:
               print: full
@@ -28,12 +28,12 @@ content:
               print: full
           - obaranje_ruku:
               print: full
-          - pecinski_zecevi:
+          - pecinski_zecevi:                # 17x RTE (on crafted testcases 5-17 and 26-29)
               print: full
       - 03 OKR-2023-24:
           - usamljenost:
               print: full
-          - dejn:
+          - dejn:                           # 6x WA (on crafted testcases 10-15 due to screwed tgen)
               print: full
           - bitvajz_oranje:
               print: full
@@ -52,14 +52,14 @@ content:
               print: full
           - i_ili:
               print: full
-          - kiki:
+          - kiki:                           # 8x RTE (on crafted testcases 9-14 and 22 and 30)
               print: full
           - palindromska_setnja:
               print: full
 #      - 05 SIO-2023-24:
    - 22 sezona-2022-23:
       - 01 KV1-2022-23:
-          - sudar:
+          - sudar:                          # RTE while generating testcases
               print: full
           - namestanjeg:
               print: full
@@ -67,14 +67,14 @@ content:
               print: full
           - vage:
               print: full
-          - zlatnici3:
+          - zlatnici3:                      # 12x RTE (on crafted testcases 7-12 and 17-22)
               print: full
       - 02 KV2-2022-23:
           - spojler:
               print: full
-          - finale:
+          - finale:                         # ERROR: compiling test generator failed
               print: full
-          - guzva:
+          - guzva:                          # ERROR: compiling test generator failed
               print: full
           - formacija:
               print: full
@@ -109,13 +109,13 @@ content:
 #      - 05 SIO-2022-23:
    - 21 sezona-2021-22:
       - 01 KV1-2021-22:
-          - nesusedni:
+          - nesusedni:                  # 22x WA
               print: full
           - transfuzija:
               print: full
           - prepisivaci:
               print: full
-          - cenzura:
+          - cenzura:                    # 21x WA
               print: full
           - nocna_voznja:
               print: full
@@ -133,7 +133,7 @@ content:
       - 03 KV3-2021-22:
           - biodiverzitet:
               print: full
-          - mladjionicar:
+          - mladjionicar:               # 1x WA
               print: full
           - psiho:
               print: full
@@ -165,7 +165,7 @@ content:
               print: full
           - smeker:
               print: full
-          - konstrukta:
+          - konstrukta:                 # 6x RTE (on crafted testcases 4, 5, 6, 7, 41 and 44)
               print: full
 #      - 06 SIO-2021-22:
    - 20 sezona-2020-21:
@@ -178,7 +178,7 @@ content:
               print: full
           - cvrsti_brojevi:
               print: full
-          - sio_stablo:
+          - sio_stablo:                 # 5x RTE but online on Petlja everything is fine
               print: full
       - 02 KV2-2020-21:
           - kvadrati:
@@ -198,9 +198,9 @@ content:
               print: full
           - karte2:
               print: full
-          - pitanja:
+          - pitanja:                    # 10x RTE but online on Petlja everything is fine
               print: full
-          - novogodisnje_stablo:
+          - novogodisnje_stablo:        # 2x RTE (on 6th and 8th crafted testcase)
               print: full
       - 04 OKR-2020-21:
           - takmicar:
@@ -228,7 +228,7 @@ content:
               print: full
           - nzd_permutacije:
               print: full
-#      - 06 SIO-2020-21:
+#     - 06 SIO-2020-21:
    - 19 sezona-2019-20:
       - 01 KV1-2019-20:
           - isplata:
@@ -266,7 +266,7 @@ content:
       - 04 OKR-2019-20:
           - premestanja:
               print: full
-          - zaboravljena:
+          - zaboravljena:               # 1x WA in example testcase 0 due to custom checker
               print: full
           - carobnjak_iz_voza:
               print: full
@@ -274,10 +274,10 @@ content:
               print: full
           - bezbedna_podmatrica:
               print: full
-          - moj_broj:
+          - moj_broj:                   # 1x WA in the first testcase due to custom checker
               print: full
       - 05 DRZ-2019-20:
-          - lek:
+          - lek:                        # 2x WA in example testcases 0 and 1 due to custom checker
               print: full
           - vestica:
               print: full

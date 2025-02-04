@@ -2,6 +2,7 @@
 #include <string>
 #include <algorithm>
 #include <fstream>
+#include <vector>
 using namespace std;
 
 bool has_extra_tokens(ifstream& ifs) {

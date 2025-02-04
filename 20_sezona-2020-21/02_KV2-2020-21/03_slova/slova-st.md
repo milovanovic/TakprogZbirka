@@ -42,22 +42,22 @@ solutions:
 
 ## Примери
 
-### Пример 1
+## Пример 1
 
-#### Улаз
+### Улаз
 
 ~~~
 29
 AABACDEFGHIJKLMNOPQRSTUVWXYZZ
 ~~~
 
-#### Излаз
+### Излаз
 
 ~~~
 4
 ~~~
 
-#### Објашњење
+### Објашњење
 
 Могући начини су:
 
@@ -66,16 +66,16 @@ AABACDEFGHIJKLMNOPQRSTUVWXYZZ
 * Обрисати друго и треће `A` и прво `Z`.
 * Обрисати друго и треће `A` и друго `Z`.
 
-### Пример 2
+## Пример 2
 
-#### Улаз
+### Улаз
 
 ~~~
 78
 AAABBBCCCDDDEEEFFFGGGHHHIIIJJJKKKLLLMMMNNNOOOPPPQQQRRRSSSTTTUUUVVVWWWXXXYYYZZZ
 ~~~
 
-#### Излаз
+### Излаз
 
 ~~~
 865810542
